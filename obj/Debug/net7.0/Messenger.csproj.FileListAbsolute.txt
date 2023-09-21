@@ -1,0 +1,17 @@
+/Users/melon/Documents/Code/251/Messenger/obj/Debug/net7.0/Messenger.csproj.AssemblyReference.cache
+/Users/melon/Documents/Code/251/Messenger/obj/Debug/net7.0/Messenger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melon/Documents/Code/251/Messenger/obj/Debug/net7.0/Messenger.AssemblyInfoInputs.cache
+/Users/melon/Documents/Code/251/Messenger/obj/Debug/net7.0/Messenger.AssemblyInfo.cs
+/Users/melon/Documents/Code/251/Messenger/obj/Debug/net7.0/Messenger.csproj.CoreCompileInputs.cache
+/Users/melon/Documents/Code/251/Messenger/bin/Debug/net7.0/Messenger
+/Users/melon/Documents/Code/251/Messenger/bin/Debug/net7.0/Messenger.deps.json
+/Users/melon/Documents/Code/251/Messenger/bin/Debug/net7.0/Messenger.runtimeconfig.json
+/Users/melon/Documents/Code/251/Messenger/bin/Debug/net7.0/Messenger.dll
+/Users/melon/Documents/Code/251/Messenger/bin/Debug/net7.0/Messenger.pdb
+/Users/melon/Documents/Code/251/Messenger/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/melon/Documents/Code/251/Messenger/obj/Debug/net7.0/Messenger.csproj.CopyComplete
+/Users/melon/Documents/Code/251/Messenger/obj/Debug/net7.0/Messenger.dll
+/Users/melon/Documents/Code/251/Messenger/obj/Debug/net7.0/refint/Messenger.dll
+/Users/melon/Documents/Code/251/Messenger/obj/Debug/net7.0/Messenger.pdb
+/Users/melon/Documents/Code/251/Messenger/obj/Debug/net7.0/Messenger.genruntimeconfig.cache
+/Users/melon/Documents/Code/251/Messenger/obj/Debug/net7.0/ref/Messenger.dll

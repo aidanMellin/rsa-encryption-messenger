@@ -1,0 +1,17 @@
+/Users/melon/Documents/Code/251/project3/obj/Debug/net7.0/project3.csproj.AssemblyReference.cache
+/Users/melon/Documents/Code/251/project3/obj/Debug/net7.0/project3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melon/Documents/Code/251/project3/obj/Debug/net7.0/project3.AssemblyInfoInputs.cache
+/Users/melon/Documents/Code/251/project3/obj/Debug/net7.0/project3.AssemblyInfo.cs
+/Users/melon/Documents/Code/251/project3/obj/Debug/net7.0/project3.csproj.CoreCompileInputs.cache
+/Users/melon/Documents/Code/251/project3/bin/Debug/net7.0/project3
+/Users/melon/Documents/Code/251/project3/bin/Debug/net7.0/project3.deps.json
+/Users/melon/Documents/Code/251/project3/bin/Debug/net7.0/project3.runtimeconfig.json
+/Users/melon/Documents/Code/251/project3/bin/Debug/net7.0/project3.dll
+/Users/melon/Documents/Code/251/project3/bin/Debug/net7.0/project3.pdb
+/Users/melon/Documents/Code/251/project3/obj/Debug/net7.0/project3.dll
+/Users/melon/Documents/Code/251/project3/obj/Debug/net7.0/refint/project3.dll
+/Users/melon/Documents/Code/251/project3/obj/Debug/net7.0/project3.pdb
+/Users/melon/Documents/Code/251/project3/obj/Debug/net7.0/project3.genruntimeconfig.cache
+/Users/melon/Documents/Code/251/project3/obj/Debug/net7.0/ref/project3.dll
+/Users/melon/Documents/Code/251/project3/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/melon/Documents/Code/251/project3/obj/Debug/net7.0/project3.csproj.CopyComplete
