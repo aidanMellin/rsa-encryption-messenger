@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/melon/Documents/Code/251/Messenger/Messenger.csproj",
+      "projectUniqueName": "/Users/melon/Documents/Code/rsa-encryption-messenger/Messenger.csproj",
       "projectName": "Messenger",
-      "projectPath": "/Users/melon/Documents/Code/251/Messenger/Messenger.csproj",
+      "projectPath": "/Users/melon/Documents/Code/rsa-encryption-messenger/Messenger.csproj",
       "packagesPath": "/Users/melon/.nuget/packages/",
-      "outputPath": "/Users/melon/Documents/Code/251/Messenger/obj/",
+      "outputPath": "/Users/melon/Documents/Code/rsa-encryption-messenger/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/melon/.nuget/NuGet/NuGet.Config"
@@ -112,7 +112,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/melon/.vscode-dotnet-sdk/.dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/7.0.100/libexec/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
